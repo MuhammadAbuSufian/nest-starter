@@ -23,7 +23,7 @@ $ npm install
 
 ## Database Config
 MongoDb is used by default. Before running the application database config need to check in database.config.ts file
-
+If you don't have mongo installed in your system then install mongodb first or you can use other database, on that case you have to change the db driver on db config file.
 ## Running the app
 
 ```bash
